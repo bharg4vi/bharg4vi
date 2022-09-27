@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhargavi</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharg4vi&label=Profile%20views&color=0e75b6&style=flat" alt="bharg4vi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharg4vi" alt="bharg4vi" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/bharworry" target="blank"><img src="https://img.shields.io/twitter/follow/bharworry?logo=twitter&style=for-the-badge" alt="bharworry" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain and exploring cloud computing.puting.**
