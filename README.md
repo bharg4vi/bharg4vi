@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bharworry" target="blank"><img src="https://img.shields.io/twitter/follow/bharworry?logo=twitter&style=for-the-badge" alt="bharworry" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain and exploring cloud computing.puting.**
+- 🌱 I’m currently learning **Blockchain and exploring cloud computing.**
 
 - 📫 How to reach me **bhargavikam.2002@gmail.com**
 
