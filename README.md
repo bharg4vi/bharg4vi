@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Blockchain and exploring cloud computing.**
 
-- 📫 How to reach me **bhargavikam.2002@gmail.com**
+- 📫 How to reach me **bharworry@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
