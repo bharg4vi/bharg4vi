@@ -2,7 +2,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/bhargaaviii" target="blank"><img src="https://img.shields.io/twitter/follow/bhargaaviii?logo=twitter&style=for-the-badge" alt="bhargaaviii" /></a> </p>
-![](https://komarev.com/ghpvc/?username=bharg4vi)
+![image title](https://rushter.com/counter.svg)
 
 - 🌱 I’m currently learning **Blockchain and exploring cloud computing.**
 
